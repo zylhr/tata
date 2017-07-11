@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* 登录 */
+.topBar{background:#FFFFFF}
+
+.logoBar{font:30px/30px "Microsoft YaHei","微软雅黑";margin-left:65px;
+margin-top:20px;margin-bottom:10px;}
+.logoBar a{color:#FF9D01}
+.rightArea .topTitle{float:right;font:15x "Microsoft YaHei","微软雅黑";margin-right:78px;
+margin-top:30px;}
+
+.loginMain{background:url(../images/dlbg.jpg);height:400px;width:1360px;}
+.loginMain img{margin-left:100px;margin-bottom:100px;}
+.login{margin-top:45px;margin-right:210px;border:#E6E0C1 solid 5px;background:#FFF
+;width:350px; height:300px;}
+.login p{font:20px "Microsoft YaHei","微软雅黑";margin-left:15px;margin-top:15px;}
+.login input{background:#F0F0F0;font:18px;}
+.user{height:60px;}
+.loginMessage input{width:185px;height:40px;margin-left:18px}
+.loginMessage span{margin-left:23px;font:20px "宋体";}
+.pass{maegin-bottom:10px}
+.loginOther{margin-top:20px;font:12px "宋体";margin-right:35px;}
+.loginOther a:hover{color:#FE9901;text-decoration:underline}
+.loginBtn{font:18px;height:40px;width:235px;background:#FE9901;margin-left:50px;margin-top:60px}
+.loginBtn input{margin-left:70px;color:#FFF;background:#FE9901;font:20px "宋体";margin-top:6px}
+
